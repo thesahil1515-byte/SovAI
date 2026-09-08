@@ -14,13 +14,13 @@ SovAI provides controlled local AI environment where organizations can securely 
 
 ## Core Features 
 
-1. On-Premises & Privacy-Focused Ai.
-2. Agentic AI workflows.
-3. Open-Weight AI Models.
-4. Secure Knowledge Base.
-5. Confidential Document Processing.
-6. Retrieval-Augmented Generation (RAG).
-7. No Mandatory Cloud Dependency.
+- On-Premises & Privacy-Focused Ai.
+- Agentic AI workflows.
+- Open-Weight AI Models.
+- Secure Knowledge Base.
+- Confidential Document Processing.
+- Retrieval-Augmented Generation (RAG).
+- No Mandatory Cloud Dependency.
 
 ## High-level Workflow 
 
@@ -28,11 +28,11 @@ User ---> Upload Confidential Data ---> Secure Knowledge Base ---> Local AI Moda
 
 ## Target Users 
 
-1. Manufacturing industries. 
-2. Defence and Aerospace Organizations. 
-3. Research instituions.
-4. Engineering organizations.
-5. Enterprises handling confidential information.
+- Manufacturing industries. 
+- Defence and Aerospace Organizations. 
+- Research institutions.
+- Engineering organizations.
+- Enterprises handling confidential information.
 
 ## Technology Stack 
 
