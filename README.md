@@ -22,7 +22,7 @@ SovAI provides controlled local AI environment where organizations can securely 
 6. Retrieval-Augmented Generation (RAG).
 7. No Mandatory Cloud Dependency.
 
-## High-level Workflow. 
+## High-level Workflow 
 
 User ---> Upload Confidential Data ---> Secure Knowledge Base ---> Local AI Modals ---> AI Agents ---> Response/Insights.
 
